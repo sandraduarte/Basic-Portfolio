@@ -1,0 +1,105 @@
+/**
+ * EXAMPLE CSS
+ **/
+
+
+* {
+  box-sizing: border-box;
+  text-align: center;
+  background: #777
+
+}
+
+
+body {
+	width:1024px;
+	font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	width:960px;
+}
+
+content {
+
+}
+
+
+.header {
+	background: #ebebeb;
+	padding: 20px;
+	margin-bottom: 20px;
+	color: #333;
+}
+
+.nav {
+	background: #ebebeb;
+	padding: 20px;
+	margin-bottom: 20px;
+	color: #333;
+}
+
+.section {
+	float:left;
+	background: #ebebeb;
+	padding: 20px;
+	margin-bottom: 20px;
+	color: #333;
+	height:400px;
+	width:55%;
+}
+
+.aside {
+	float:right;
+	background: #ebebeb;
+	padding: 20px;
+	margin-bottom: 20px;
+	color: #333;
+	height:400px;
+	width:40%;
+
+}
+
+#article {
+	float:left;
+	background: #777;
+	padding: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color: #ebebeb;
+	height:325px;
+	width:100%;
+}
+
+
+
+#h123 {
+	float:left;
+	background: #ebebeb;
+	padding: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color: #333;
+	height:100px;
+	width:100%;
+	font-style: bold;
+
+}
+
+#p {
+	float:left;
+	background: #ebebeb;
+	padding: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color: #333;
+	height:100px;
+	width:100%;
+
+}
+
+.footer {
+	background: #ebebeb;
+	padding: 20px;
+	margin-bottom: 20px;
+	color: #333;
+	clear:both;
+}
